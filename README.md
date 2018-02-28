@@ -89,7 +89,7 @@
 :pig:  :smile:
 ```
 
-## HTML
+## 语义标签
 
 - markdown是支持原生HTML的，所以要以直接用html标签书写
     - 也可以添加行内样式
@@ -100,3 +100,27 @@
 <h3 style="color:orange">橙色大标题</h3>
 ```
 
+描述|效果|代码
+---|---|---|
+上标|Z<sup>a</sup>|`Z<sup>a</sup>`
+下标|Z<sub>a</sub>|`Z<sub>a</sub>`
+键盘文本|<kbd>Ctrl</kbd>|`<kbd>Ctrl</kbd>`
+
+## 脚注
+- Markdown[^1]
+
+```
+Markdown[^1]
+[^1]:Markdown是一种纯文本标记语言
+```
+
+## 锚点/目录
+- 只有*标题*支持多花点，跳转目录方括号后保持空格
+
+[标题一](#1)
+
+### [标题一] {#1}
+
+
+
+[^1]:Markdown是一种纯文本标记语言

@@ -80,6 +80,13 @@
 
 ## Emoji
 - 兼容性一般
+    - 以 两个 `:`包裹着表情名称
+
+:pig:  :smile:
+
+```
+:pig:  :smile:
+```
 
 ## HTML
 
@@ -91,3 +98,4 @@
 ```
 <h3 style="color:orange">橙色大标题</h3>
 ```
+

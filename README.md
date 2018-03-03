@@ -69,3 +69,17 @@
 ---|:--:|---:   # 此行一个 - 就可以， 两端 ：表示居中，右：表示右对齐，左：表示左对齐
 内容|内容|内容
 ```
+
+## 流程图
+- 部分编辑器并不支持流程图，兼容性不好
+- 代码块儿加flow 
+
+```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```

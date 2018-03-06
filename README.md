@@ -30,11 +30,11 @@
 * **有序列表** ：则使用数字接着一个英文句点`.`
 * 列表内允许缩进
 
-1.  This is a list item with two paragraphs
+1. This is a list item with two paragraphs
 
     Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-    sit amet velit.
+ vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+sit amet velit.
 ```
 
 ```

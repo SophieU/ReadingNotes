@@ -29,6 +29,14 @@
 * **无序列表** ： 使用`* 或 + 或 -`都可以开户无序列表
 * **有序列表** ：则使用数字接着一个英文句点`.`
 * 列表内允许缩进
+
+1.  This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere lectus.
+
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+    sit amet velit.
 ```
 
 ```

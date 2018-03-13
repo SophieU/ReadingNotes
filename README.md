@@ -16,10 +16,11 @@
 ```
 
 ## 区块引用
-> 以`>`开头
-This is the first level of quoting.
->
-> > This is nested blockquote.
-```
+> 以`>`开头，可以嵌套使用
 
+> 一段引用
+> > 嵌套引用
+```
+> 一段引用
+> > 嵌套引用
 ```

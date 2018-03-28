@@ -16,11 +16,4 @@ the third day
 9th day 
 10th day 
 11th day 
- day 
-13th 
-14th 
-15th day
-16th 
-
-
 

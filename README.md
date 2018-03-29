@@ -22,9 +22,5 @@ the third day
 15th day
 16th 
 
-19th day 
-20th day 
-
-29th 
 
 

@@ -26,11 +26,5 @@ the third day
 20th day 
 
 29th 
-30th 
-31th =
-32th day  
-34th day  
-35th day
-37
-38th day 
+
 

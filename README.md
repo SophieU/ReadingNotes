@@ -33,7 +33,7 @@ the third day
 35th day 
 37
 38th day 
-39th day
+ day
 40th day
 41th day
 42th day

@@ -32,7 +32,7 @@ the third day
 33th day123456
 34th day  4567894756
 35th day 
-37th dayaaaaa 啦啦啦啦啦
+37
 38th day aaaaaaaaaaa
 39th day
 40th day

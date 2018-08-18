@@ -31,8 +31,7 @@ the third day
 32th day  56565656565
 33th day123456
 34th day  4567894756
-35th day readingnotes test git 
-36th day  have a good day
+35th day 
 37th dayaaaaa 啦啦啦啦啦
 38th day aaaaaaaaaaa
 39th day

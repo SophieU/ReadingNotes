@@ -24,11 +24,7 @@ the third day
 
 19th day 
 20th day 
-21th day  
-22th day   
- 
-24th day 
-28th day 
+
 29th 
 30th 
 31th =

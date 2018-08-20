@@ -26,7 +26,7 @@ the third day
 20th day 
 21th day  
 22th day   
-23thday 
+ 
 24th day 
 28th day 
 29th 

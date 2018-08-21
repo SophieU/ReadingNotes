@@ -30,7 +30,7 @@ the third day
 24th day 
 28th day 
 29th 
-30th day6666666
+30th 
 31th =
 32th day  56565656565
 33th day123456

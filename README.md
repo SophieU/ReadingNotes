@@ -21,8 +21,7 @@ the third day
 14th 
 15th day
 16th 
-17th day 
-18th day 
+
 19th day 
 20th day 
 21th day  

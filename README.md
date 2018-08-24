@@ -11,7 +11,7 @@ the third day
 5th day 
 6th day 
  
-7th day 
+7th  
 8th day 
 9th day 
 10th day 

@@ -10,7 +10,7 @@ the third day
 4th day
 5th day 
 6th day 
-2232323 
+ 
 7th day 
 8th day 
 9th day 

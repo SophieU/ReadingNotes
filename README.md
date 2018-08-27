@@ -17,7 +17,7 @@ the third day
 10th day 
 11th day 
 12th day 
-13th day55555
+13th 
 14th 
 15th day
 16th 

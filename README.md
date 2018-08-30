@@ -19,7 +19,7 @@ the third day
 12th day 4444444
 13th day55555
 14th 
-15th day 888888
+15th day
 16th 
 17th day 
 18th day 

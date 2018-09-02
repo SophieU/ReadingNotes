@@ -27,7 +27,7 @@ the third day
 20th day 
 21th day  
 22th day   
-23thday 8888888888
+23thday 
 24th day 99999999
 28th day 111111111
 29th day000000000

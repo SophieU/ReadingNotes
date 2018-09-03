@@ -22,8 +22,8 @@ the third day
 15th day 888888
 16th 
 17th day 
-18th day 999999
-19th day 101010
+18th day 
+19th day 
 20th day 999999
 21th day  55555555
 22th day   777777777

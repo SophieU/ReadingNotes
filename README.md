@@ -20,8 +20,8 @@ the third day
 13th day55555
 14th 
 15th day 888888
-16th day777777
-17th day 888888
+16th 
+17th day 
 18th day 999999
 19th day 101010
 20th day 999999

@@ -10,8 +10,8 @@ the third day
 4th day
 5th day 
 6th day 
-2232323 0101100101
-7th day 88888
+2232323 
+7th day 
 8th day 99999
 9th day 111111
 10th day 2222222

@@ -1,13 +1,14 @@
 
 # 目录结构：
 *   [ES6标准教程](https://sophieu.github.io/ReadingNotes/)
+:pig: 
 # ReadingNotes
 读书笔记
 update on the other PC
 another day  1th day
 the third day
 4th day
-5th day 55555555
+5th day 
 6th day 121212121
 2232323 0101100101
 7th day 88888

@@ -1,6 +1,6 @@
-# BaseUrl : https://sophieu.github.io/ReadingNotes/
+
 # 目录结构：
-*   [ES6标准教程](https://sophieu.github.io/ReadingNotes/ES6标准教程/1章: 关于ES6.md)
+*   [ES6标准教程](https://sophieu.github.io/ReadingNotes/)
 # ReadingNotes
 读书笔记
 update on the other PC

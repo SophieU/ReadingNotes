@@ -70,21 +70,6 @@
 内容|内容|内容
 ```
 
-## 流程图
-- 部分编辑器并不支持流程图，兼容性不好
-- 代码块儿加flow 
-
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-```
-
-
 ## 任务列表
 
 - 兼容性一般，要隔开一行
@@ -95,3 +80,14 @@ cond(no)->op
 
 ## Emoji
 - 兼容性一般
+
+## HTML
+
+- markdown是支持原生HTML的，所以要以直接用html标签书写
+    - 也可以添加行内样式
+
+<h3 style="color:orange">橙色大标题</h3>
+
+```
+<h3 style="color:orange">橙色大标题</h3>
+```

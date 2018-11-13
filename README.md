@@ -80,9 +80,10 @@
 
 ## Emoji
 - 兼容性一般
-    - 以 两个 `:`包裹着表情名称
+    - 以 两个 `:`包裹着表情名称 👧
+- [emoji符号大全(可直接复制)](http://www.fhdq.net/emoji/emojifuhao.html#top)、[emoji官网搜索](https://emojipedia.org/face-with-tears-of-joy/)
 
-:pig:  :smile:
+:pig:  :smile: 
 
 ```
 :pig:  :smile:
